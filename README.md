@@ -6,4 +6,3 @@ Org profile for **DNC Tech Solutions**. The public-facing card on
 
 🌐 [dnc-tech.com](https://dnc-tech.com)
 
-> Internal CI/security automation lives in a **private** repo — not here.
