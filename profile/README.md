@@ -7,7 +7,7 @@ manual processes you run in spreadsheets into the operations tools, dashboards, 
 apps you actually need.
 
 - 🧰 **Web apps, mobile apps, and internal tools** — built for your workflow
-- 💵 **Fixed-price builds** · **full ownership handoff** · no retainer trap
+- 💵 **Fixed-price builds** · **full ownership handoff** · optional care plans, no lock-in
 - 📈 **ROI you can see** — every build ships with live numbers
 - ⚡ Runs for **pennies a month** at small-business scale
 
